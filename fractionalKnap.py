@@ -24,8 +24,6 @@ def fractional(values,weights,W):
 
 values = [50,120,120]
 weight = [10,20,30]
-5,6,4
-170
-10
 W = 40
+
 print(fractional(values,weight,W))
